@@ -4,7 +4,7 @@ $x = 1;
 $y = 1;
 $userNumber = rand(0.100);
 
-echo "Число ".$userNumber;
+echo "Число ".$userNumber, '<br>';
 
 while($status) {
 
