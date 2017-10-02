@@ -10,7 +10,7 @@ while($status) {
 
     if ($x > $userNumber) {
         $status = false;
-        print_r('задуманное число не входит в чис ряд');
+        print_r('задуманное число не входит в числовой ряд');
     } else {
         if ($x != $userNumber) {
             $z = $x;
