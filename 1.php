@@ -2,7 +2,7 @@
 $status = true;
 $x = 1;
 $y = 1;
-$userNumber = rand(0.100);
+$userNumber = rand(0, 100);
 
 echo "Число ".$userNumber, '<br>';
 
